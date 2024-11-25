@@ -1,0 +1,15 @@
+{
+  "version": "0.0.2",
+  "name": "@satriacorp/mobile-ui",
+  "description": "satriacorp UI library for mobile",
+  "license": "MIT",
+  "keywords": [
+    "satriacorp"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/satriacorp/mobile-ui.git"
+  },
+  "homepage": "https://satriacorp.com",
+  "main": "src/index.js"
+}
